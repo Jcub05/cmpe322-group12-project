@@ -4,7 +4,7 @@
 - Jacob Badali - **Group Leader**
 - Connor Rewa
 - Chloe Atherton - **Presenter 1**
-- Will Pritchard
+- Will Pritchard - **Presenter 2**
 - Julian Tiqui
 - Zhu Yuan
 
